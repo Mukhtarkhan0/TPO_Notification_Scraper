@@ -24,8 +24,8 @@ As a third-year Electrical Engineering student at ZHCET, AMU, I noticed that kee
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tpo-notice-scraper.git
-cd tpo-notice-scraper
+git clone https://github.com/YOUR_USERNAME/TPO_Notification_Scraper.git
+cd TPO_Notification_Scraper
 ```
 
 ### 2. Install Required Libraries
@@ -61,7 +61,7 @@ The script will:
 - Scrape the latest notices
 - Download PDFs
 - Send an email with notice titles, dates, and attachments
-- Keeps a log of already downloaded files in 'notification.csv'
+- Keeps a log of already downloaded files in 'notifications.csv'
 - Clean up downloaded files afterward
 
 
